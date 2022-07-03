@@ -1,0 +1,40 @@
+ Welcome to the world of C—a vigorous, professional programming language popular with 
+amateur and commercial programmers alike. 
+
+Dennis Ritchie of Bell Labs created C in 1972 as he and Ken Thompson worked on designing 
+the Unix operating system. 
+
+ C is oriented to fulfill the needs of programmers. 
+ 
+ This flexibility is both an advantage and a danger. 
+ 
+ C gives you more freedom, but  it also puts more responsibility on you.
+ 
+   What Computers Do
+   
+   Now that you are about to learn how to program in C, you probably should know a little 
+about how computers work.
+
+This knowledge will help you understand the connection between 
+writing a program in C and what eventually takes place when you run that program. 
+
+ Modern computers have several components. 
+ 
+ The  central processing unit , or  CPU , does most 
+of the computing work. 
+
+The  random access memory , or  RAM , serves as a workspace to hold 
+programs and files. 
+
+
+The permanent memory storage device, typically a hard disk in the past, 
+but now more and more often a solid-state device, remembers those programs and files, even 
+while the computer is turned off. 
+
+
+And various peripherals—such as the keyboard, mouse, 
+touchscreen, and monitor—provide for communication between the computer and you. 
+
+The CPU processes your programs; so let’s concentrate on its role.
+
+
